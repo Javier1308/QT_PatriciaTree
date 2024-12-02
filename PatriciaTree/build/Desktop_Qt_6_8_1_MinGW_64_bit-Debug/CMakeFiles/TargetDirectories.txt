@@ -1,0 +1,9 @@
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/PatriciaTree.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/PatriciaTree_autogen_timestamp_deps.dir
+C:/Users/joliv/OneDrive/Escritorio/PatriciaTree/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/PatriciaTree_autogen.dir
